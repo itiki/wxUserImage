@@ -36,6 +36,9 @@ pyecharts 是一个用于生成 Echarts 图表的类库。Echarts 是百度开�
 ### 第四阶段
 创建Page类，将图表对象add进去，最后渲染页面
 
+# 博客链接
+[传送门](https://xichunling.com/index.php/2018/10/27/%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E7%94%BB%E5%83%8F/)
+
 # 参考资料
 1. [wxpy: 用 Python 玩微信](https://wxpy.readthedocs.io/zh/latest/index.html "wxpy: 用 Python 玩微信")
 2. [pyecharts 文档](http://pyecharts.org/#/ "pyecharts 文档")
